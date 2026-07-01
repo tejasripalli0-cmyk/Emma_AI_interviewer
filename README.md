@@ -109,6 +109,6 @@ Emma_AI_interviewer/
 
 ## 👨‍💻 Developed By
 
-**Sameera**
+**Tejasri**
 
 AI-Powered Full Stack Interview Platform using FastAPI, JavaScript, and Groq Llama 3.1.

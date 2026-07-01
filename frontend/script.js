@@ -3,7 +3,7 @@
    ═══════════════════════════════════════════════════════════ */
 
 // ── CONFIG ─────────────────────────────────────────────────
-const BACKEND_BASE_URL = "https://solid-spoon-x5g9rw7v44x6hp5pp-8000.app.github.dev";   // Leave blank — uses same host automatically
+const BACKEND_BASE_URL = "https://emma-ai-interviewer.onrender.com";   // Leave blank — uses same host automatically
 const MIN_DURATION = 10 * 60;   // 10 minutes
 const MAX_DURATION = 15 * 60;   // 15 minutes
 
